@@ -44,6 +44,7 @@ namespace DealerOnTest
         private void DisplayActions()
         {
             Console.WriteLine();
+            Console.WriteLine("({0}) {1}", "#", "Add Item to Cart");
             Console.WriteLine("({0}) {1}", "P", "Print Receipt");
             Console.WriteLine("({0}) {1}", "C", "Display Catalogue");
             Console.WriteLine("({0}) {1}", "S", "Display Cart");
